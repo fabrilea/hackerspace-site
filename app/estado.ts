@@ -1,1 +1,1 @@
-export const plazas: number = 20;
+export const plazas: number = "20";
